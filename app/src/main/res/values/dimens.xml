@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_10dp">10dp</dimen>
+    <dimen name="name_textSize">20sp</dimen>
+    <dimen name="email_textSize">15sp</dimen>
+    <dimen name="height_55dp">55dp</dimen>
+    <dimen name="txtSize_18sp">18sp</dimen>
+    <dimen name="margin_startEnd_40dp">40dp</dimen>
+    <dimen name="margin_bottom_btn2_30dp">30dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="radius_btn2">25dp</dimen>
+    <dimen name="radius_btn1">10dp</dimen>
+</resources>
